@@ -20,3 +20,5 @@ To start, I will look at sources like the [@HelicoptersofDC](https://twitter.com
 * Resident complaint issued? (Could be a metric for whether people thought this trip was particularly noisy)
 * Any relevant news events or details about the incident
 * Notes (for example, that the reported noise is coming from a hospital known to have a landing pad and heavy helicopter traffic.)
+
+[Here's a link](https://docs.google.com/spreadsheets/d/140NpmfwTxvbx75-MgrSE_mcfSumVUw0fu4Rr4CDSE2k/edit#gid=0) to what my rough draft dataset looks like. Iused mostly bot data but would likley cross-check with other sources like Flight Aware, FAA, etc.)
