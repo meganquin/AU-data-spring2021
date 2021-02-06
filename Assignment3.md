@@ -21,4 +21,4 @@ To start, I will look at sources like the [@HelicoptersofDC](https://twitter.com
 * Any relevant news events or details about the incident
 * Notes (for example, that the reported noise is coming from a hospital known to have a landing pad and heavy helicopter traffic.)
 
-[Here's a link](https://docs.google.com/spreadsheets/d/140NpmfwTxvbx75-MgrSE_mcfSumVUw0fu4Rr4CDSE2k/edit#gid=0) to what my rough draft dataset looks like. Iused mostly bot data but would likley cross-check with other sources like Flight Aware, FAA, etc.)
+[Here's a link](https://docs.google.com/spreadsheets/d/140NpmfwTxvbx75-MgrSE_mcfSumVUw0fu4Rr4CDSE2k/edit#gid=0) to what my rough draft dataset looks like. I used mostly bot data but would likely cross-check with other sources like Flight Aware, FAA, etc.)
