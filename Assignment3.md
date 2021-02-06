@@ -12,7 +12,11 @@ To start, I will look at sources like the [@HelicoptersofDC](https://twitter.com
 * Date
 * Time of flyover
 * Agency (police, medical, etc)
-* Reported flight path starting location
+* Latitude
+* Longitude
+* Reported flight path starting location (this is for sources, like FlightAware, that don't report long and lat)
 * Reported flight path ending location
 * Neighborhoods flown through (Columbia Heights, Park View, Mount Pleasant, etc)
 * Resident complaint issued? (Could be a metric for whether people thought this trip was particularly noisy)
+* Any relevant news events or details about the incident
+* Notes (for example, that the reported noise is coming from a hospital known to have a landing pad and heavy helicopter traffic.)
