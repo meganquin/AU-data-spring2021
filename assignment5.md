@@ -1,6 +1,8 @@
 # When Sharks Attack!
 
-https://1drv.ms/x/s!AsgmTgBE0N8aeeRB55EXRGetLkk?e=GbUGgo (sharable link)
+[sharable link to my spreadsheets](https://1drv.ms/x/s!AsgmTgBE0N8aeeRB55EXRGetLkk?e=GbUGgo)
+
+The data came from [here](https://www.kaggle.com/ncsaayali/shark-attack-dataset?select=GSAF5-1.xls) and is from research from the [Global Shark Attack File](http://sharkattackfile.net/)
 
 ## Why do sharks attack?
 
